@@ -1,11 +1,11 @@
-import './App.css';
+import Body from "./component/Body";
 
 function App() {
-  return(
+  return (
     <>
-    <h1>Hello World!</h1>
+      <Body />
     </>
-  )
+  );
 }
 
 export default App;
